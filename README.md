@@ -73,9 +73,14 @@ Session1がレビュー待ちの場合...
 13) [UITableView](Documentation/UITableView.md)
 1) [UINavigationController](Documentation/UINavigationController.md)
 
+**■ 並行処理**
+
+15) [データ競合を発生させる](DataRace.md)
+1) [データ競合安全を図る](Documentation/DataRaseSafety.md)
+
 **■ 実力チェック**
 
-15) [BugFix](Documentation/BugFix.md)
+17) [BugFix](Documentation/BugFix.md)
 
 [^git-rebase]: このようなケースで `rebase` コマンドを使うことが必ずしも正しいとは限りません。 どのような方法をとるかはチームで議論するべきと考えます。 ただ、この研修は「`rebase`コマンドを使ってみる」ことも研修の一部としています。
 
